@@ -1,0 +1,13 @@
+NAME   READY   STATUS    RESTARTS   AGE
+api    1/1     Running   0          21s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
+
+Port: 8000
+{
+  "prediction": [
+    21.24525468845233  
+  ]
+}
