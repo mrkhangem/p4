@@ -1,4 +1,4 @@
-<[![mrkhangem](https://circleci.com/gh/mrkhangem/p4.svg?style=svg)](https://circleci.com/gh/mrkhangem/p4)>
+[![mrkhangem](https://circleci.com/gh/mrkhangem/p4.svg?style=svg)](https://circleci.com/gh/mrkhangem/p4)
 
 ## Project Overview
 
